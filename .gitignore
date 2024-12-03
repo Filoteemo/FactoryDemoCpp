@@ -1,0 +1,37 @@
+# Prerequisites
+*.d
+<<<<<<< HEAD
+.vscode/
+=======
+.vscode
+>>>>>>> 97903f51c3d9d1fb78874f5b7f223e488fbb3d76
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
